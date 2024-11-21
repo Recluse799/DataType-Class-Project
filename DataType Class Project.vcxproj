@@ -127,7 +127,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="DataType Class Project.cpp" />
+    <ClCompile Include="DayType Class Project.cpp" />
+    <ClCompile Include="DayType.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="DayType.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
